@@ -204,4 +204,14 @@ cython_debug/
 # Marimo
 marimo/_static/
 marimo/_lsp/
-__marimo__/
+__marimo__
+
+# YOUI backend data
+backend/data/
+
+# Next.js / frontend
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+.next/
+node_modules//
