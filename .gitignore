@@ -206,12 +206,11 @@ marimo/_static/
 marimo/_lsp/
 __marimo__
 
-# YOUI backend data
+# Align backend data
 backend/data/
 
-# Next.js / frontend
+# Optional frontend tooling
 frontend/node_modules/
 frontend/.next/
-frontend/out/
 .next/
 node_modules//
