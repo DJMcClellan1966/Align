@@ -1,0 +1,7 @@
+{
+  "critic_accept_threshold": 0.25,
+  "critic_low_warn_threshold": 0.15,
+  "max_style_sentences": 15,
+  "sentence_graph_min_shared_concepts": 2,
+  "jaccard_min_similarity": 0.2
+}

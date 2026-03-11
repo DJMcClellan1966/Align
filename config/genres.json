@@ -1,0 +1,12 @@
+{
+  "retirement": {
+    "dataset": "harvard",
+    "harvard_slice": "non-fiction",
+    "description": "Retirement transition and planning"
+  },
+  "hobbies": {
+    "dataset": "harvard",
+    "harvard_slice": "non-fiction",
+    "description": "Hobbies, learning, and reconnection"
+  }
+}
